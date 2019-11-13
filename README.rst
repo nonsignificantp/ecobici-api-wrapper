@@ -8,7 +8,7 @@ Ecobici API v1.0 wrapper
 Description
 ===========
 
-FastAPI wrapper around Buenos Aires' ecobici API found on the original ecobici status map. **Since 2019 a new system was put in place toghether with a clean fresh API**, however the old API is still in place and running. The main purpose of this wrapper was to implement a cleaner way of making apy calls and querys mixed with corrected data types in each field.
+``Ecobici API v1.0 wrapper`` is a fastAPI wrapper around Buenos Aires' ecobici API found on the original ecobici status map. **Since 2019 a new system was put in place together with a clean fresh API**, however the old API is still in place and running. The main purpose of this wrapper was to implement a cleaner way of making apy calls and querys mixed with corrected data types in each field.
 
 Installation
 ============
@@ -40,7 +40,7 @@ Followed by::
 API
 ===
 
-:``/estaciones/{numero}``:  Return information of station.
+:``/estaciones/{numero}``  Returns information of station.
 
 
 
